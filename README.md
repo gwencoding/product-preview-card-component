@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/ss-previewcard-desktop-solution.png =252x152)
+![](./images/ss-previewcard-desktop-solution.png )
 
 ### Links
 

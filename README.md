@@ -27,6 +27,7 @@ Users should be able to:
 ### Screenshot
 
 ![](./images/ss-previewcard-desktop-solution.png )
+![](./images/ss-previewcard-mobile-solution.png )
 
 ### Links
 
